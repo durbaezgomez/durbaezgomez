@@ -1,9 +1,15 @@
-# Hi, I’m Dominik! 👋  
+# Hi, I’m Dominik 👋  
 
-I’m a passionate **iOS Developer** with over 5 years of experience building scalable, user-focused applications using **Swift** and modern architectures like MVVM and recently - TCA. All this while spending my free time on pursuing other tech oriented interests and music production. My journey blends technology and creativity:  
+I'm a software engineer with 5+ years of experience in **iOS development, automation, and AI-driven systems**.
 
-- 🚀 **Automation Enthusiast**: I love building smart workflows with tools like **n8n**, **Make**, and **Siri Shortcuts**, streamlining processes for both work and life.  
-- 🤖 **AI Explorer**: Exploring the intersection of **AI** and app development, I create projects that push the boundaries of user experiences.  
-- 🎵 **Music Producer**: As a music producer and sound designer, I combine my technical skills with artistry, creating beats, soundscapes, and compositions.  
+I’ve built and maintained **scalable, production-grade mobile applications** using Swift and modern architectures such as **MVVM and TCA**, delivering solutions used across e-commerce, insurtech, and aviation domains.
 
-Check out my repositories to see projects that blend code, creativity, and automation!
+In recent years I focused on **automation and AI** - designing smart workflows and agentic systems that streamline processes, reduce manual work, and translate real business needs into reliable technical solutions.
+
+### What I work with
+- 🚀 **Automation & Orchestration**: n8n, Agentic AI, API integration, Siri Shortcuts  
+- 🤖 **AI & Systems**: RAG-based assistants, AI workflow orchestration, integrations with OpenAI, Anthropic, Google AI Studio 
+- 📱 **iOS Development**: Swift, SwiftUI, MVVM, TCA, CI/CD config & maintenance, Unit Tests, UI Tests
+- 🛠 **Engineering Practices**: scalable architecture, end-to-end ownership, client-facing collaboration, business process analysis
+
+Outside of software engineering, I’m also a **music producer and sound designer** - blending technical precision with creativity 🎵
